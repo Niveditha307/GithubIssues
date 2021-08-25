@@ -1,0 +1,24 @@
+.issue-item-container{
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    background-color: cadetblue;
+    margin:10px;
+    padding:10px;
+    border-radius: 20px;
+    width:400px;
+}
+.item-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.details-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
